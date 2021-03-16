@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="press_to_See">Press to See</string>
+    <string name="press_to_stop">Press to Stop</string>
+</resources>
